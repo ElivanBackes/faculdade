@@ -1,0 +1,206 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+}
+.bodyexemple {
+	width: 95%;
+	max-width: 65%;
+	margin: auto;
+	background: url(images/back.jpg) no-repeat center top fixed;
+	background-size: cover;
+	font-family: 'Klee One';
+	color: #663500;
+	line-height: 2;
+}
+.mainexemple{
+	background: #ffe6cc;
+	padding: 5px 40px;
+	margin-top: 20px;
+	border-radius: 20px;
+	opacity: 1;	
+}
+.logotipobackes{
+	margin-left: 23%;
+	width: 60%;
+	height: 60%;
+}
+.logo{
+	margin: 10;
+	text-align: center;
+}
+.btnsobre, .btncontato, .btnprodutos {
+	color: black;
+	background: #ff8400;
+	border-radius: 20px;
+	margin: 10%;	
+	text-align: center;
+	font-size: 110%;
+}
+.footer {
+	line-height: 1.2;
+	color: black;
+	background: #ff8400;
+	padding-top: 10px;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 100%;
+	padding-bottom: 20px;
+
+}
+.logo2{
+	width: 40%;
+	text-align: left;
+}
+
+.cabecalho {
+	background-color: #ffe6cc;
+	margin: 9px;
+}
+.li-princ {
+	text-align: center;
+	text-decoration: none;
+}
+.img-container{
+	position: relative;
+	right:  -20%;
+	margin-right:  -100px;
+}
+.cabecalho nav h1 img {
+	display: inline-block;
+	height: 200px;
+
+}
+.menu-princ {
+	width: 90%;
+	padding-top: 1%;
+	padding-left: 5%;
+	padding-bottom: 2%;
+
+}
+.opcoes-princ {
+}
+.cabecalho nav ul li {
+	background-color: #ff8400;
+	display: inline-block;
+	bottom: 10%;
+	border-radius: 20px;
+
+}
+.cabecalho nav ul li a {
+	border-radius: 20px;
+	background-color: #ff8400;
+	display: inline-block;
+	bottom: 10%;
+	text-decoration: none;
+	color: black;
+}
+.cabecalho nav ul li a:hover {
+	background-color: #ffa31a;
+}
+.divquem{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.imgtxt{
+	width: 40%;
+}
+.artigodoces{
+	max-width: calc(1300px - 40px);
+	padding: 0 20px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between; /*espaçamento entre elementos*/
+	flex-wrap: wrap;
+}
+table {
+	border-collapse: collapse;
+color: black;
+}
+td {
+	width:49.8%;
+	padding: 3%;
+	text-align: center;
+	
+	background-color: #ffcc80;
+	border-radius: 20px;
+}
+.tableprod{
+	
+}
+.testt{
+	width:250px;
+	height:250px;
+}
+.testt1{
+	width:300px;
+	height:300px;
+	padding-right: 10px;
+
+}
+.paragrafodetalhado{
+	position: right;
+}
+.textoimg{
+	color: red;
+}
+.div23{
+	padding-bottom: 200px;
+}
+.formcontato1{
+	white-space: normal;
+	text-align: center;
+	text-align-last: center;
+	background-color: #ffcc80;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.formcontato2{
+	white-space: normal;
+	text-align: center;
+	text-align-last: center;
+	background-color: #ffcc80;
+	border-radius: 20px;
+	padding-bottom: 20px;
+	
+}
+.formcontato2 img{
+		margin-bottom: 20px;
+		margin-right: 20px;
+		margin-top: 10px;
+		border-radius: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
